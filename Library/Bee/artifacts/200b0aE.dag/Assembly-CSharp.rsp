@@ -373,6 +373,7 @@
 -analyzer:"/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/LoadAssets.cs"
 "Assets/Scripts/ProgressEvaluator.cs"
 "Assets/Scripts/Test.cs"
 -langversion:9.0
